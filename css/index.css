@@ -1,0 +1,15 @@
+html{background-color: none; color: #69707a;font-family: "Open Sans", Arial, sans-serif;}
+body {background-image: url("../img/myanmar.jpg");}
+strong{color:#222324;}
+.navbar{background: aliceblue;}
+.btn{font-weight: 300}
+.btn-primary{background: #e16879; border-color:#e16879;}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {background: #e05164;border-color: #e05164;}
+.card {border-color: #ccc;}
+.card-title {color: #e16879;font-weight: 300;}
+.card-block small {float: right;}
+.description {background-image: url("myanmar.jpg");background-repeat: repeat-x;}
+.jumbotron{background-color: transparent !important;}
